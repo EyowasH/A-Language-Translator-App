@@ -1,2 +1,2 @@
 # A-Language-Translator-App
-A Language Translator
+A Language Translator App
